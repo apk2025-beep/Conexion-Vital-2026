@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Condiciones Pro",
+  "description": "Una aplicación para dar seguimiento a estadísticas personales y organizacionales, determinar el estado de existencia actual basado en tendencias de rendimiento, y aplicar fórmulas sistemáticas para la mejora.",
+  "requestFramePermissions": []
+}
